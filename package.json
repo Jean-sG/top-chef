@@ -1,0 +1,26 @@
+{
+  "name": "top-chef",
+  "version": "1.0.0",
+  "description": "Get the current deal for a France located Michelin starred restaurants.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean-sG/top-chef.git"
+  },
+  "author": "Jean GUillaume",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jean-sG/top-chef/issues"
+  },
+  "homepage": "https://github.com/Jean-sG/top-chef#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.3"
+  }
+}
